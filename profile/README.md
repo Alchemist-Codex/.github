@@ -24,21 +24,19 @@ Together, we envision building impactful projects that make a difference. 🚀
 
 ## 🌐 Connect With Us
 
-<p align="center">
-<a href="https://linktr.ee/member1" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="40" height="40">
-    <path d="M5.984 3a.998.998 0 0 0-.98 1.01v7.957a.998.998 0 1 0 1.994 0V9.354l.143-.178 1.986 3.31a.998.998 0 1 0 1.71-1.025L8.466 7.514l2.299-2.881a.998.998 0 0 0-.815-1.63.998.998 0 0 0-.748.388L7.115 6.004a.998.998 0 0 0-.117-.008V4.01A.998.998 0 0 0 5.984 3z" 
-    fill="#595bd4"></path>
-</svg>
-</a>
-<a href="https://linktr.ee/member2" target="blank" style="text-decoration: none;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="40" height="40" aria-label="Linktree Member 2 Icon" style="display: inline-block vertical-align: middle;">
-    <path fill-rule="evenodd" d="M6.006 3a.997.997 0 0 0-.031.002.997.997 0 0 0-.073.004.997.997 0 0 0-.879 1.154v3.67a.997.997 0 0 0 0 .334v3.824a.997.997 0 1 0 1.995 0v-2.99h.353l1.719 3.44a.997.997 0 1 0 1.783-.893L9.406 8.61c.936-.508 1.584-1.491 1.584-2.62 0-1.556-1.22-2.836-2.744-2.966A.997.997 0 0 0 8.016 3H6.02a.997.997 0 0 0-.015 0zm1.012 1.994H8c.57 0 .996.427.996.996 0 .57-.426.998-.996.998v.006a.997.997 0 0 0-.094.002.997.997 0 0 0-.066.008h-.822v-2.01z" fill="#595bd4" class="color000000 svgShape"> </path>
-</svg>
-</a>
-
-<a href="https://linktr.ee/member3" target="blank"><img src="https://img.icons8.com/color/48/linktree--v1.png" alt="Member 3 Linktree" width="40"/></a>
-<a href="https://linktr.ee/member4" target="blank"><img src="https://img.icons8.com/color/48/linktree--v1.png" alt="Member 4 Linktree" width="40"/></a>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <a href="https://linktr.ee/koustaavs" target="_blank" aria-label="Linktree Member 1">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="40" height="40"><path d="M5.984 3a.998.998 0 0 0-.98 1.01v7.957a.998.998 0 1 0 1.994 0V9.354l.143-.178 1.986 3.31a.998.998 0 1 0 1.71-1.025L8.466 7.514l2.299-2.881a.998.998 0 0 0-.815-1.63.998.998 0 0 0-.748.388L7.115 6.004a.998.998 0 0 0-.117-.008V4.01A.998.998 0 0 0 5.984 3z" fill="#595bd4"></path></svg>
+  </a>
+  <a href="https://linktr.ee/ritaban06" target="_blank" aria-label="Linktree Member 2">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="40" height="40"><path fill-rule="evenodd" d="M6.006 3a.997.997 0 0 0-.031.002.997.997 0 0 0-.073.004.997.997 0 0 0-.879 1.154v3.67a.997.997 0 0 0 0 .334v3.824a.997.997 0 1 0 1.995 0v-2.99h.353l1.719 3.44a.997.997 0 1 0 1.783-.893L9.406 8.61c.936-.508 1.584-1.491 1.584-2.62 0-1.556-1.22-2.836-2.744-2.966A.997.997 0 0 0 8.016 3H6.02a.997.997 0 0 0-.015 0zm1.012 1.994H8c.57 0 .996.427.996.996 0 .57-.426.998-.996.998v.006a.997.997 0 0 0-.094.002.997.997 0 0 0-.066.008h-.822v-2.01z" fill="#595bd4"></path></svg>
+  </a>
+  <a href="https://linktr.ee/rayyyanjali" target="blank">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="A" width="40" height="40"><path fill-rule="evenodd" d="M8.01 1039.363a.997.997 0 0 0-.942.647l-2.99 7.973a.997.997 0 1 0 1.865.699l.494-1.319h3.125l.495 1.319a.997.997 0 1 0 1.865-.7l-2.99-7.972a.997.997 0 0 0-.922-.647zm-.008 3.834.814 2.174h-1.63l.816-2.174z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" transform="translate(0 -1036.362)" fill="#595bd4" class="color000000 svgShape"></path></svg>
+  </a>
+<a href="https://linktr.ee/Lykus691" target="_blank" aria-label="Linktree Member 4">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="40" height="40"><path fill-rule="evenodd" d="M7 3a1 1 0 0 0-.223.023C5.237 3.141 4 4.432 4 6c0 1.57 1.24 2.864 2.783 2.979A1 1 0 0 0 7 9h2c.571 0 1 .429 1 1s-.429 1-1 1H5a1 1 0 1 0 0 2h4a1 1 0 0 0 .223-.023C10.763 12.859 12 11.569 12 10c0-1.57-1.24-2.864-2.783-2.979A1 1 0 0 0 9 7H7c-.571 0-1-.429-1-1s.429-1 1-1h4a1 1 0 1 0 0-2H7z" fill="#595bd4"></path></svg>
+  </a>
 </p>
 
 ---
