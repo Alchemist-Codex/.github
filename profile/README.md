@@ -32,25 +32,19 @@ Together, we envision building impactful projects that make a difference. 🚀
           <img src="images/koustav.jpg" width="105" alt="@Koustav" style="max-width:100%;"><br/>Koustav Singh
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/ritaban06" target="_blank" rel="nofollow">
-          <img src="images/ritaban.jpg" width="105" alt="@Member2" style="max-width:100%;"><br/>Ritaban Ghosh
+          <img src="images/ritaban.jpg" width="105" alt="@Ritaban" style="max-width:100%;"><br/>Ritaban Ghosh
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/AnjaliRayyy" target="_blank" rel="nofollow">
           <img src="images/anjali.jpg" width="105" alt="@Anjali" style="max-width:100%;"><br/>Anjali Ray
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/Kisuke-Urahara-Code-Whiz" target="_blank" rel="nofollow">
-          <img src="images/sougata.png" width="105" alt="@Sougata" style="max-width:100%;"><br/>Sougata Mondal
+          <img src="images/sougata.jpg" width="105" alt="@Member4" style="max-width:100%;"><br/>Sougata Mondal
         </a>
       </td>
     </tr>
@@ -178,3 +172,4 @@ Together, we envision building impactful projects that make a difference. 🚀
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 </p>
+ss
