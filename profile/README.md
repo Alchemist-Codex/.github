@@ -64,7 +64,7 @@ Together, we envision building impactful projects that make a difference. 🚀
 </a>
 <a href="https://linktr.ee/rayyyanjali" target="blank"><img src="https://img.icons8.com/?size=100&id=38670&format=png&color=767fad" alt="A" width="40"/>
 </a>
-<a href="https://linktr.ee/member4" target="blank"><img src="https://img.icons8.com/?size=100&id=111048&format=png&color=767fad" alt="S" width="40"/></a>
+<a href="https://linktr.ee/Lykus691" target="blank"><img src="https://img.icons8.com/?size=100&id=111048&format=png&color=767fad" alt="S" width="40"/></a>
 </p>
 
 ---
