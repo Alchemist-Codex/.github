@@ -10,7 +10,7 @@
 
 ## 💡 About Us
 
-<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 We are a team of four passionate developers and innovators, united by a shared love for technology and problem-solving. Our core strengths include:
 
