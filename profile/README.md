@@ -25,7 +25,7 @@ Together, we envision building impactful projects that make a difference. 🚀
 # 💫 Members
 
 <table><tbody><tr>
-<td align="left"><img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="@member"></td>
+<td align="center"><a href="https://github.com/ritaban06" target="_blank" rel="nofollow"><img src="images/ritaban.jpg" width="105" alt="@Ritaban" style="max-width:100%;"><br/>Ritaban Ghosh</a></td>
 <td align="center"><a href="https://github.com/koustavx08" target="_blank" rel="nofollow"><img src="images/koustav.jpg" width="105" alt="@Koustav" style="max-width:100%;"><br/>Koustav Singh</a></td>
 </tr>
 </tbody>
