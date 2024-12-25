@@ -22,6 +22,19 @@ Together, we envision building impactful projects that make a difference. 🚀
 
 ---
 
+# 💫 Members
+
+<table><tbody><tr>
+<td align="left"><img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="@member"></td>
+<td align="center"><a href="https://github.com/koustavx08" target="_blank" rel="nofollow"><img src="images/koustav.jpg" width="105" alt="@Koustav" style="max-width:100%;"><br/>Koustav Singh</a></td>
+</tr>
+</tbody>
+</table>
+
+ ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
+
+---
+
 ## 🌐 Connect With Us
 
 <p align="center">
