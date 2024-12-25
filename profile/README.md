@@ -10,7 +10,7 @@
 
 ## 💡 About Us
 
-<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 We are a team of four passionate developers and innovators, united by a shared love for technology and problem-solving. Our core strengths include:
 
@@ -25,20 +25,13 @@ Together, we envision building impactful projects that make a difference. 🚀
 ## 🌐 Connect With Us
 
 <p align="center">
-<a href="https://linktr.ee/member1" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="40" height="40">
-    <path d="M5.984 3a.998.998 0 0 0-.98 1.01v7.957a.998.998 0 1 0 1.994 0V9.354l.143-.178 1.986 3.31a.998.998 0 1 0 1.71-1.025L8.466 7.514l2.299-2.881a.998.998 0 0 0-.815-1.63.998.998 0 0 0-.748.388L7.115 6.004a.998.998 0 0 0-.117-.008V4.01A.998.998 0 0 0 5.984 3z" 
-    fill="#595bd4"></path>
-</svg>
+<a href="https://linktr.ee/koustaavs" target="blank"><img src="https://img.icons8.com/?size=100&id=111032&format=png&color=767fad" alt="K" width="40"/>
 </a>
-<a href="https://linktr.ee/member2" target="blank" style="text-decoration: none;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="40" height="40" aria-label="Linktree Member 2 Icon" style="display: inline-block vertical-align: middle;">
-    <path fill-rule="evenodd" d="M6.006 3a.997.997 0 0 0-.031.002.997.997 0 0 0-.073.004.997.997 0 0 0-.879 1.154v3.67a.997.997 0 0 0 0 .334v3.824a.997.997 0 1 0 1.995 0v-2.99h.353l1.719 3.44a.997.997 0 1 0 1.783-.893L9.406 8.61c.936-.508 1.584-1.491 1.584-2.62 0-1.556-1.22-2.836-2.744-2.966A.997.997 0 0 0 8.016 3H6.02a.997.997 0 0 0-.015 0zm1.012 1.994H8c.57 0 .996.427.996.996 0 .57-.426.998-.996.998v.006a.997.997 0 0 0-.094.002.997.997 0 0 0-.066.008h-.822v-2.01z" fill="#595bd4" class="color000000 svgShape"> </path>
-</svg>
+<a href="https://linktr.ee/ritaban06" target="blank" style="text-decoration: none;"><img src ="https://img.icons8.com/?size=100&id=111046&format=png&color=767fad" alt="R" width="40">
 </a>
-
-<a href="https://linktr.ee/member3" target="blank"><img src="https://img.icons8.com/color/48/linktree--v1.png" alt="Member 3 Linktree" width="40"/></a>
-<a href="https://linktr.ee/member4" target="blank"><img src="https://img.icons8.com/color/48/linktree--v1.png" alt="Member 4 Linktree" width="40"/></a>
+<a href="https://linktr.ee/rayyyanjali" target="blank"><img src="https://img.icons8.com/?size=100&id=38670&format=png&color=767fad" alt="A" width="40"/>
+</a>
+<a href="https://linktr.ee/member4" target="blank"><img src="https://img.icons8.com/?size=100&id=111048&format=png&color=767fad" alt="S" width="40"/></a>
 </p>
 
 ---
@@ -124,10 +117,10 @@ Together, we envision building impactful projects that make a difference. 🚀
 
 ## 🛠️ Projects We Build
 
-### 🔗 [Project Name 1](#)
+### 🔗 [Academic Chain](https://github.com/Alchemist-Codex/blockchain-education)
 
-**Description**: Brief explanation of the project, its goals, and its impact.  
-**Tech Used**: React, Node.js, MongoDB, Firebase
+**Description**: A decentralized platform to securely store, manage, and verify academic credentials using blockchain technology. The system empowers students with ownership of their records, streamlines the verification process for institutions, and ensures tamper-proof documentation.  
+**Tech Used**: Vite (React), Tailwind CSS, ethers.js; Solidity Smart Contracts on Ethereum (Goerli/Polygon Mumbai); Tools: Ganache, MetaMask, Vercel.
 
 ### 🔗 [Project Name 2](#)
 
