@@ -24,13 +24,50 @@ Together, we envision building impactful projects that make a difference. 🚀
 
 # 💫 Members
 
-<table><tbody><tr>
-<td align="left"><img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="@member"></td>
-<td align="center"><a href="https://github.com/koustavx08" target="_blank" rel="nofollow"><img src="images/koustav.jpg" width="105" alt="@Koustav" style="max-width:100%;"><br/>Koustav Singh</a></td>
-</tr>
-</tbody>
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="@member">
+      </td>
+      <td align="center">
+        <a href="https://github.com/koustavx08" target="_blank" rel="nofollow">
+          <img src="images/koustav.jpg" width="105" alt="@Koustav" style="max-width:100%;"><br/>Koustav Singh
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="@member">
+      </td>
+      <td align="center">
+        <a href="https://github.com/ritaban06" target="_blank" rel="nofollow">
+          <img src="images/ritaban.jpg" width="105" alt="@Member2" style="max-width:100%;"><br/>Ritaban Ghosh
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/?size=100&id=UF--CfaVggaW&format=png&color=000000" alt="@membergirl">
+      </td>
+      <td align="center">
+        <a href="https://github.com/AnjaliRayyy" target="_blank" rel="nofollow">
+          <img src="images/" width="105" alt="@Anjali" style="max-width:100%;"><br/>Anjali Ray
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" alt="@member">
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kisuke-Urahara-Code-Whiz" target="_blank" rel="nofollow">
+          <img src="images/sougata.png" width="105" alt="@Sougata" style="max-width:100%;"><br/>Sougata Mondal
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
 
  ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
 
