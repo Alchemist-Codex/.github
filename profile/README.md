@@ -28,22 +28,22 @@ Together, we envision building impactful projects that make a difference. 🚀
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/koustavx08" target="_blank" rel="nofollow">
+        <a href="https://github.com/koustavx08" target="_blank" rel="noopener noreferrer">
           <img src="images/koustav.jpg" width="105" alt="@Koustav" style="max-width:100%;"><br/>Koustav Singh
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ritaban06" target="_blank" rel="nofollow">
+        <a href="https://github.com/ritaban06" target="_blank" rel="noopener noreferrer">
           <img src="images/ritaban.jpg" width="105" alt="@Ritaban" style="max-width:100%;"><br/>Ritaban Ghosh
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/AnjaliRayyy" target="_blank" rel="nofollow">
+        <a href="https://github.com/AnjaliRayyy" target="_blank" rel="noopener noreferrer">
           <img src="images/anjali.jpg" width="105" alt="@Anjali" style="max-width:100%;"><br/>Anjali Ray
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kisuke-Urahara-Code-Whiz" target="_blank" rel="nofollow">
+        <a href="https://github.com/Kisuke-Urahara-Code-Whiz" target="_blank" rel="noopener noreferrer">
           <img src="images/sougata.png" width="105" alt="@Sougata" style="max-width:100%;"><br/>Sougata Mondal
         </a>
       </td>
@@ -58,13 +58,13 @@ Together, we envision building impactful projects that make a difference. 🚀
 ## 🌐 Connect With Us
 
 <p align="center">
-<a href="https://linktr.ee/koustaavs" target="blank"><img src="https://img.icons8.com/?size=100&id=111032&format=png&color=767fad" alt="K" width="40"/>
+<a href="https://linktr.ee/koustaavs" target="blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=111032&format=png&color=767fad" alt="K" width="40"/>
 </a>
-<a href="https://linktr.ee/ritaban06" target="blank" style="text-decoration: none;"><img src ="https://img.icons8.com/?size=100&id=111046&format=png&color=767fad" alt="R" width="40">
+<a href="https://linktr.ee/ritaban06" target="blank" rel="noopener noreferrer"><img src ="https://img.icons8.com/?size=100&id=111046&format=png&color=767fad" alt="R" width="40">
 </a>
-<a href="https://linktr.ee/rayyyanjali" target="blank"><img src="https://img.icons8.com/?size=100&id=38670&format=png&color=767fad" alt="A" width="40"/>
+<a href="https://linktr.ee/rayyyanjali" target="blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=38670&format=png&color=767fad" alt="A" width="40"/>
 </a>
-<a href="https://linktr.ee/Lykus691" target="blank"><img src="https://img.icons8.com/?size=100&id=111048&format=png&color=767fad" alt="S" width="40"/></a>
+<a href="https://linktr.ee/Lykus691" target="blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=111048&format=png&color=767fad" alt="S" width="40"/></a>
 </p>
 
 ---
