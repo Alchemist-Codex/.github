@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, We Are (Team Name)</h1>
+<h1 align="center">Hi 👋, We Are Alchemist Codex</h1>
 <h3 align="center">A Visionary Team of Web and Blockchain Developers</h3>
 
 ---
