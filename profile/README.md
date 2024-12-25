@@ -44,7 +44,7 @@ Together, we envision building impactful projects that make a difference. 🚀
       </td>
       <td align="center">
         <a href="https://github.com/Kisuke-Urahara-Code-Whiz" target="_blank" rel="nofollow">
-          <img src="images/sougata.jpg" width="105" alt="@Sougata" style="max-width:100%;"><br/>Sougata Mondal
+          <img src="images/sougata.png" width="105" alt="@Sougata" style="max-width:100%;"><br/>Sougata Mondal
         </a>
       </td>
     </tr>
