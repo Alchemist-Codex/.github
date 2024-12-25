@@ -43,7 +43,7 @@ Together, we envision building impactful projects that make a difference. 🚀
     <tr>
       <td align="center">
         <a href="https://github.com/AnjaliRayyy" target="_blank" rel="nofollow">
-          <img src="images/" width="105" alt="@Anjali" style="max-width:100%;"><br/>Anjali Ray
+          <img src="images/anjali.jpg" width="105" alt="@Anjali" style="max-width:100%;"><br/>Anjali Ray
         </a>
       </td>
     </tr>
