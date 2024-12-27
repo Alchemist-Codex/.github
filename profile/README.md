@@ -128,16 +128,6 @@ Together, we envision building impactful projects that make a difference. 🚀
 **Description**: A decentralized platform to securely store, manage, and verify academic credentials using blockchain technology. The system empowers students with ownership of their records, streamlines the verification process for institutions, and ensures tamper-proof documentation.  
 **Tech Used**: Vite (React), Tailwind CSS, ethers.js; Solidity Smart Contracts on Ethereum (Goerli/Polygon Mumbai); Tools: Ganache, MetaMask, Vercel.
 
-### 🔗 [Project Name 2](#)
-
-**Description**: Brief explanation of the project, its goals, and its impact.  
-**Tech Used**: Solidity, Ethereum, IPFS, React
-
-### 🔗 [Project Name 3](#)
-
-**Description**: Brief explanation of the project, its goals, and its impact.  
-**Tech Used**: Machine Learning, Python, Flask
-
 ---
 
 ## ✍️ Inspirational Quote
